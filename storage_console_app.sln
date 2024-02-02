@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storage_console_app", "storage_console_app\storage_console_app.csproj", "{96F48FAD-92C5-4F82-8A0D-06446D68A40A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F48FAD-92C5-4F82-8A0D-06446D68A40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F48FAD-92C5-4F82-8A0D-06446D68A40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F48FAD-92C5-4F82-8A0D-06446D68A40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F48FAD-92C5-4F82-8A0D-06446D68A40A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C626F3D-9105-40FD-B318-BF0F62E80037}
+	EndGlobalSection
+EndGlobal
